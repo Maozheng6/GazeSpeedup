@@ -4,7 +4,7 @@ Reality
 Maozheng Zhao, Alec M Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, Aakar Gupta
 Stony Brook University, Meta 
 
-![EyeSayCorrect teaser](teaser_c.pdf)
+![Gaze Speedup teaser](gc_teaser.pnng)
 
 ## Presentation Video (8 minutes)
 <p align="center">
