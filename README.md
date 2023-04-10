@@ -5,23 +5,24 @@ Stony Brook University, Meta
 
 ![Gaze Speedup teaser](gc_teaser.png)
 
-## Presentation Video (8 minutes)
+## Presentation Video (9 minutes)
 <p align="center">
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=682611771&bvid=BV1AU4y1o7CM&cid=558101415&page=1" scrolling="no" border="0" title="EyeSayCorrect presentation video" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=994835689&bvid=BV1Xs4y1m7Mz&cid=1089160578&page=1" scrolling="no" border="0" title="EyeSayCorrect presentation video" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
-The video is also available on [Youtube](https://youtu.be/cSYQwaqchl0) and [Bilibili](https://www.bilibili.com/video/BV1AU4y1o7CM?share_source=copy_web).
+
+The video is also available on [Bilibili](https://www.bilibili.com/video/BV1Xs4y1m7Mz/?spm_id_from=333.999.0.0&vd_source=05af339ffd77c4b424ba2393db3ade1d).
 
 
 
 ## Video Demo (2 minutes)
 <p align="center">
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?bvid=BV1244y1W7jt&page=1&high_quality=1" scrolling="no" border="0" title="EyeSayCorrect Demo" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=909813230&bvid=BV1XM4y117cL&cid=1089164072&page=1" scrolling="no" border="0" title="Gaze Speedup Demo" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </p>
 
-<iframe src="//player.bilibili.com/player.html?aid=909813230&bvid=BV1XM4y117cL&cid=1089164072&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-The video is also available on [Youtube](https://youtu.be/MxVBq2SDC_k) and [Bilibili](https://www.bilibili.com/video/BV1244y1W7jt?spm_id_from=333.999.0.0).
+
+The video is also available on [Bilibili](https://www.bilibili.com/video/BV1XM4y117cL/?share_source=copy_web&vd_source=135e585c3c57f69edf258393780a2f5c).
 
 
 
