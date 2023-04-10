@@ -32,7 +32,7 @@ Mid-air text input in augmented or virtual reality (AR/VR) is an open problem. O
 ## Publication 
 
 Maozheng Zhao, Alec M Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. 2023. Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality. In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI '23). Association for Computing Machinery, New York, NY, USA, 595–606. https://doi.org/10.1145/3581641.3584072 
-(gs.pdf)
+[Paper(pdf)](gs.pdf)
 
 ## Contact
 For questions and further information, please contact:<br/>
