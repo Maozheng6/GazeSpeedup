@@ -1,8 +1,8 @@
 [Home](https://maozheng6.github.io/Maozheng/)
 
 # Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality
-Maozheng Zhao, Alec M Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, Aakar Gupta
-Stony Brook University, Meta 
+Maozheng Zhao<sup>1</sup>, Alec M Pierce<sup>2</sup>, Ran Tan<sup>2</sup>, Ting Zhang<sup>2</sup>, Tianyi Wang<sup>2</sup>, Tanya R. Jonker<sup>2</sup>, Hrvoje Benko<sup>2</sup>, Aakar Gupta<sup>2</sup> <\br>
+<sup>1</sup>Stony Brook University, <sup>2</sup>Meta 
 
 ![Gaze Speedup teaser](gc_teaser.png)
 
